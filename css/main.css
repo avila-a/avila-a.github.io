@@ -69,6 +69,10 @@ table {
 body {
     margin: 60px auto;
     width: 70%;
+    line-height: 4;
+}
+#top{
+    background: #FFF1E0
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
